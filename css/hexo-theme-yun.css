@@ -124,7 +124,7 @@ html.dark {
   --hty-secondary-text-color: #555;
   --post-block-bg-color: #fff;
   --smc-link-color: #0078e7;
-  --yun-bg-image: url("https://cdn.yunyoujun.cn/img/bg/stars-timing-0-blur-30px.jpg");
+  --yun-bg-image: url("https://images-repository-1310836028.cos.ap-nanjing.myqcloud.com/blog%2Fbackground3.jpg");
   --banner-line-color: #000;
   --banner-char-color: #000;
 }
@@ -135,12 +135,12 @@ html.dark {
   --hty-secondary-text-color: #eee;
   --post-block-bg-color: #1b1f2e;
   --smc-link-color: #3ca1ff;
-  --yun-bg-image: url("https://cdn.yunyoujun.cn/img/bg/galaxy.jpg");
+  --yun-bg-image: url("https://images-repository-1310836028.cos.ap-nanjing.myqcloud.com/blog%2Fbackground2.jpg");
   --banner-line-color: #fff;
   --banner-char-color: #fff;
   --banner-char-bg-color: rgba(0,0,0,0.5);
   --banner-char-hover-color: #000;
-  --post-card-bg-color: rgba(27,31,46,0.9);
+  --post-card-bg-color: rgba(27,31,46,0.8);
   --post-card-shadow: 0 1px 8px rgba(27,31,46,0.1);
   --sidebar-bg-color: rgba(27,31,46,0.95);
   --sidebar-bg-image: url("");
@@ -294,14 +294,14 @@ body::before {
   background-repeat: no-repeat;
   animation-name: bgFadeIn;
   animation-duration: 2s;
-  opacity: 1;
+  opacity: 0.8;
 }
 @-moz-keyframes bgFadeIn {
   from {
     opacity: 0;
   }
   to {
-    opacity: 1;
+    opacity: 0.8;
   }
 }
 @-webkit-keyframes bgFadeIn {
@@ -309,7 +309,7 @@ body::before {
     opacity: 0;
   }
   to {
-    opacity: 1;
+    opacity: 0.8;
   }
 }
 @-o-keyframes bgFadeIn {
@@ -317,7 +317,7 @@ body::before {
     opacity: 0;
   }
   to {
-    opacity: 1;
+    opacity: 0.8;
   }
 }
 @keyframes bgFadeIn {
@@ -325,8 +325,23 @@ body::before {
     opacity: 0;
   }
   to {
-    opacity: 1;
+    opacity: 0.8;
   }
+}
+body {
+  cursor: url("https://cdn.yunyoujun.cn/css/md-cursors/pointer.cur"), auto;
+}
+a {
+  cursor: url("https://cdn.yunyoujun.cn/css/md-cursors/link.cur"), auto;
+}
+a:hover {
+  cursor: url("https://cdn.yunyoujun.cn/css/md-cursors/link.cur"), auto;
+}
+.hty-icon-button {
+  cursor: url("https://cdn.yunyoujun.cn/css/md-cursors/link.cur"), pointer;
+}
+input {
+  cursor: url("https://cdn.yunyoujun.cn/css/md-cursors/text.cur"), auto;
 }
 :root {
   --banner-char-bg-color: rgba(255,255,255,0.5);
@@ -682,6 +697,10 @@ body::before {
   margin: 5px 5px 0 5px;
   color: #0078E7;
 }
+#busuanzi_value_site_uv,
+#busuanzi_value_site_pv {
+  margin-left: 0.2rem;
+}
 .moe-text {
   margin: 0 5px;
 }
@@ -881,7 +900,7 @@ body::before {
 }
 .wordcloud #wordcloud-canvas,
 .wordcloud #wordcloud-sidebar-canvas {
-  cursor: url("$cursor-pointer"), pointer;
+  cursor: url("https://cdn.yunyoujun.cn/css/md-cursors/link.cur"), pointer;
 }
 .wordcloud #wordbox {
   pointer-events: none;
@@ -1257,7 +1276,7 @@ body::before {
   }
 }
 :root {
-  --post-card-bg-color: rgba(255,255,255,0.9);
+  --post-card-bg-color: rgba(255,255,255,0.8);
   --post-card-shadow: 0 0 10px rgba(255,255,255,0.1);
 }
 .post-card {
@@ -1954,6 +1973,17 @@ body::before {
   margin-bottom: 1rem;
   line-height: 1.5;
 }
+.site-author-status {
+  position: absolute;
+  height: 1.8rem;
+  width: 1.8rem;
+  bottom: 0;
+  right: 0;
+  line-height: 1.8rem;
+  border-radius: 50%;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.2);
+  background-color: #fff;
+}
 .site-name {
   color: var(--hty-text-color);
   font-family: 'Songti SC', 'Noto Serif SC', STZhongsong, STKaiti, KaiTi, Roboto, serif;
@@ -2074,6 +2104,25 @@ body::before {
 }
 #say #say-from {
   display: block;
+}
+.notice {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Songti SC', 'Noto Serif SC', STZhongsong, STKaiti, KaiTi, Roboto, serif;
+  font-weight: bold;
+  padding: 1rem;
+  margin: 1rem auto;
+  border: 1px solid #000;
+  max-width: calc(900px - 2rem);
+  background-color: rgba(255,255,255,0.3);
+}
+@media screen and (max-width: 768px) {
+  .notice {
+    border-left-width: 0px;
+    border-right-width: 0px;
+  }
 }
 .heimu {
   background-color: var(--hty-text-color);
