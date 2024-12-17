@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://wyyaa123.github.io/</id>
+    <title>wyyaa123的博客</title>
+    <updated>2024-12-16T14:35:16.921Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>wyyaa123</name>
+        <email>wyyaa123@nuaa.edu.cn</email>
+    </author>
+    <link rel="alternate" href="https://wyyaa123.github.io/"/>
+    <link rel="self" href="https://wyyaa123.github.io/atom.xml"/>
+    <logo>https://images-repository-1310836028.cos.ap-nanjing.myqcloud.com/blog/avatar.jpg</logo>
+    <icon>https://wyyaa123.github.io/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2024 © wyyaa123</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello, Valaxy!]]></title>
+        <id>https://wyyaa123.github.io/posts/hello-valaxy</id>
+        <link href="https://wyyaa123.github.io/posts/hello-valaxy"/>
+        <updated>2022-04-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>Valaxy</h2>
+<p>Next Generation Static Blog Framework.</p>
+<p>Write your first post!</p>
+<h2>Usage</h2>
+<p>Modify `valaxy</p>
+<br/><p>访问 <a href="https://wyyaa123.github.io/posts/hello-valaxy" target="_blank">https://wyyaa123.github.io/posts/hello-valaxy</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>wyyaa123</name>
+            <email>wyyaa123@nuaa.edu.cn</email>
+        </author>
+        <published>2022-04-01T00:00:00.000Z</published>
+    </entry>
+</feed>

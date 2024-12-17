@@ -1,0 +1,23 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "wyyaa123的博客",
+    "home_page_url": "https://wyyaa123.github.io/",
+    "feed_url": "https://wyyaa123.github.io/feed.json",
+    "icon": "https://images-repository-1310836028.cos.ap-nanjing.myqcloud.com/blog/avatar.jpg",
+    "author": {
+        "name": "wyyaa123"
+    },
+    "items": [
+        {
+            "id": "",
+            "content_html": "<h2>Valaxy</h2>\n<p>Next Generation Static Blog Framework.</p>\n<p>Write your first post!</p>\n<h2>Usage</h2>\n<p>Modify `valaxy</p>\n<br/><p>访问 <a href=\"https://wyyaa123.github.io/posts/hello-valaxy\" target=\"_blank\">https://wyyaa123.github.io/posts/hello-valaxy</a> 阅读全文。</p>",
+            "url": "https://wyyaa123.github.io/posts/hello-valaxy",
+            "title": "Hello, Valaxy!",
+            "date_modified": "2022-04-01T00:00:00.000Z",
+            "date_published": "2022-04-01T00:00:00.000Z",
+            "author": {
+                "name": "wyyaa123"
+            }
+        }
+    ]
+}
