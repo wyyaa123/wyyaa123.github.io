@@ -4,7 +4,7 @@
         <title>wyyaa123的博客</title>
         <link>https://wyyaa123.github.io/</link>
         <description></description>
-        <lastBuildDate>Tue, 17 Dec 2024 07:57:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Dec 2024 16:11:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -18,7 +18,7 @@
             <title><![CDATA[怎么样使用Valaxy框架部署博客]]></title>
             <link>https://wyyaa123.github.io/posts/怎么样使用Valaxy框架部署博客</link>
             <guid>https://wyyaa123.github.io/posts/怎么样使用Valaxy框架部署博客</guid>
-            <pubDate>Tue, 17 Dec 2024 07:51:34 GMT</pubDate>
+            <pubDate>Tue, 17 Dec 2024 16:11:07 GMT</pubDate>
             <content:encoded><![CDATA[<p>在本文中主要会介绍我自己作为一名前端小白，是如何部署博客的。</p>
 <h2>配置环境</h2>
 <p>系统:</p>
@@ -31,6 +31,14 @@
 <p>npm:</p>
 </blockquote>
 <br/><p>访问 <a href="https://wyyaa123.github.io/posts/怎么样使用Valaxy框架部署博客" target="_blank">https://wyyaa123.github.io/posts/怎么样使用Valaxy框架部署博客</a> 阅读全文。</p>]]></content:encoded>
+            <author>wyyaa123@nuaa.edu.cn (wyyaa123)</author>
+        </item>
+        <item>
+            <title><![CDATA[Ubuntu安装CUDA, Cudnn以及TensorRT]]></title>
+            <link>https://wyyaa123.github.io/posts/Ubuntu安装CUDA, Cudnn以及TensorRT</link>
+            <guid>https://wyyaa123.github.io/posts/Ubuntu安装CUDA, Cudnn以及TensorRT</guid>
+            <pubDate>Tue, 17 Dec 2024 16:09:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div style="text-align: center; font-size: 20px; font-weight: bold"> 在此假设你使用的是一个干净的崭新的Ubuntu系统 </d<br/><p>访问 <a href="https://wyyaa123.github.io/posts/Ubuntu安装CUDA, Cudnn以及TensorRT" target="_blank">https://wyyaa123.github.io/posts/Ubuntu安装CUDA, Cudnn以及TensorRT</a> 阅读全文。</p>]]></content:encoded>
             <author>wyyaa123@nuaa.edu.cn (wyyaa123)</author>
         </item>
     </channel>

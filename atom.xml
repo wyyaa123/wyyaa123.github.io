@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wyyaa123.github.io/</id>
     <title>wyyaa123的博客</title>
-    <updated>2024-12-17T07:57:32.804Z</updated>
+    <updated>2024-12-17T16:11:32.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>wyyaa123</name>
@@ -34,6 +34,18 @@
             <name>wyyaa123</name>
             <email>wyyaa123@nuaa.edu.cn</email>
         </author>
-        <published>2024-12-17T07:51:34.721Z</published>
+        <published>2024-12-17T16:11:07.742Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu安装CUDA, Cudnn以及TensorRT]]></title>
+        <id>https://wyyaa123.github.io/posts/Ubuntu安装CUDA, Cudnn以及TensorRT</id>
+        <link href="https://wyyaa123.github.io/posts/Ubuntu安装CUDA, Cudnn以及TensorRT"/>
+        <updated>2024-12-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div style="text-align: center; font-size: 20px; font-weight: bold"> 在此假设你使用的是一个干净的崭新的Ubuntu系统 </d<br/><p>访问 <a href="https://wyyaa123.github.io/posts/Ubuntu安装CUDA, Cudnn以及TensorRT" target="_blank">https://wyyaa123.github.io/posts/Ubuntu安装CUDA, Cudnn以及TensorRT</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>wyyaa123</name>
+            <email>wyyaa123@nuaa.edu.cn</email>
+        </author>
+        <published>2024-12-17T16:09:48.339Z</published>
     </entry>
 </feed>
