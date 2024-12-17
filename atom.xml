@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wyyaa123.github.io/</id>
     <title>wyyaa123的博客</title>
-    <updated>2024-12-16T14:35:16.921Z</updated>
+    <updated>2024-12-17T07:57:32.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>wyyaa123</name>
@@ -14,20 +14,26 @@
     <icon>https://wyyaa123.github.io/favicon.svg</icon>
     <rights>CC BY-NC-SA 4.0 2024 © wyyaa123</rights>
     <entry>
-        <title type="html"><![CDATA[Hello, Valaxy!]]></title>
-        <id>https://wyyaa123.github.io/posts/hello-valaxy</id>
-        <link href="https://wyyaa123.github.io/posts/hello-valaxy"/>
-        <updated>2022-04-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<h2>Valaxy</h2>
-<p>Next Generation Static Blog Framework.</p>
-<p>Write your first post!</p>
-<h2>Usage</h2>
-<p>Modify `valaxy</p>
-<br/><p>访问 <a href="https://wyyaa123.github.io/posts/hello-valaxy" target="_blank">https://wyyaa123.github.io/posts/hello-valaxy</a> 阅读全文。</p>]]></content>
+        <title type="html"><![CDATA[怎么样使用Valaxy框架部署博客]]></title>
+        <id>https://wyyaa123.github.io/posts/怎么样使用Valaxy框架部署博客</id>
+        <link href="https://wyyaa123.github.io/posts/怎么样使用Valaxy框架部署博客"/>
+        <updated>2024-12-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>在本文中主要会介绍我自己作为一名前端小白，是如何部署博客的。</p>
+<h2>配置环境</h2>
+<p>系统:</p>
+<blockquote>
+<p>Windows 11 22H</p>
+</blockquote>
+<p>软件包：</p>
+<blockquote>
+<p>Node 22.12.0</p>
+<p>npm:</p>
+</blockquote>
+<br/><p>访问 <a href="https://wyyaa123.github.io/posts/怎么样使用Valaxy框架部署博客" target="_blank">https://wyyaa123.github.io/posts/怎么样使用Valaxy框架部署博客</a> 阅读全文。</p>]]></content>
         <author>
             <name>wyyaa123</name>
             <email>wyyaa123@nuaa.edu.cn</email>
         </author>
-        <published>2022-04-01T00:00:00.000Z</published>
+        <published>2024-12-17T07:51:34.721Z</published>
     </entry>
 </feed>

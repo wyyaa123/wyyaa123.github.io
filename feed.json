@@ -10,11 +10,11 @@
     "items": [
         {
             "id": "",
-            "content_html": "<h2>Valaxy</h2>\n<p>Next Generation Static Blog Framework.</p>\n<p>Write your first post!</p>\n<h2>Usage</h2>\n<p>Modify `valaxy</p>\n<br/><p>访问 <a href=\"https://wyyaa123.github.io/posts/hello-valaxy\" target=\"_blank\">https://wyyaa123.github.io/posts/hello-valaxy</a> 阅读全文。</p>",
-            "url": "https://wyyaa123.github.io/posts/hello-valaxy",
-            "title": "Hello, Valaxy!",
-            "date_modified": "2022-04-01T00:00:00.000Z",
-            "date_published": "2022-04-01T00:00:00.000Z",
+            "content_html": "<p>在本文中主要会介绍我自己作为一名前端小白，是如何部署博客的。</p>\n<h2>配置环境</h2>\n<p>系统:</p>\n<blockquote>\n<p>Windows 11 22H</p>\n</blockquote>\n<p>软件包：</p>\n<blockquote>\n<p>Node 22.12.0</p>\n<p>npm:</p>\n</blockquote>\n<br/><p>访问 <a href=\"https://wyyaa123.github.io/posts/怎么样使用Valaxy框架部署博客\" target=\"_blank\">https://wyyaa123.github.io/posts/怎么样使用Valaxy框架部署博客</a> 阅读全文。</p>",
+            "url": "https://wyyaa123.github.io/posts/怎么样使用Valaxy框架部署博客",
+            "title": "怎么样使用Valaxy框架部署博客",
+            "date_modified": "2024-12-16T00:00:00.000Z",
+            "date_published": "2024-12-17T07:51:34.721Z",
             "author": {
                 "name": "wyyaa123"
             }
