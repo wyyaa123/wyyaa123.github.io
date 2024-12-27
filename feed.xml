@@ -4,7 +4,7 @@
         <title>wyyaa123的博客</title>
         <link>https://wyyaa123.github.io/</link>
         <description></description>
-        <lastBuildDate>Wed, 18 Dec 2024 17:10:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Dec 2024 02:07:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -15,18 +15,21 @@
         <copyright>CC BY-NC-SA 4.0 2024 © wyyaa123</copyright>
         <atom:link href="https://wyyaa123.github.io/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Ubuntu安装CUDA, Cudnn以及TensorRT]]></title>
-            <link>https://wyyaa123.github.io/posts/Ubuntu安装CUDA, Cudnn以及TensorRT</link>
-            <guid>https://wyyaa123.github.io/posts/Ubuntu安装CUDA, Cudnn以及TensorRT</guid>
-            <pubDate>Wed, 18 Dec 2024 15:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[<div style="text-align: center; font-size: 20px; font-weight: bold"> 在此假设你使用的是一个干净的崭新的Ubuntu系统 </di<br/><p>访问 <a href="https://wyyaa123.github.io/posts/Ubuntu安装CUDA, Cudnn以及TensorRT" target="_blank">https://wyyaa123.github.io/posts/Ubuntu安装CUDA, Cudnn以及TensorRT</a> 阅读全文。</p>]]></content:encoded>
+            <title><![CDATA[博士论文阅读记录]]></title>
+            <link>https://wyyaa123.github.io/posts/博士论文阅读记录</link>
+            <guid>https://wyyaa123.github.io/posts/博士论文阅读记录</guid>
+            <pubDate>Thu, 26 Dec 2024 14:17:58 GMT</pubDate>
+            <content:encoded><![CDATA[<p>记录一下别人的论文方便自己写论文(恼🤐)</p>
+<h2>经典视觉SLAM缺陷</h2>
+<p>  视觉SLAM方法倾向于从图像中提取视觉特征点, 通过帧间的特征匹配估计相对位姿和场景的稀</p>
+<br/><p>访问 <a href="https://wyyaa123.github.io/posts/博士论文阅读记录" target="_blank">https://wyyaa123.github.io/posts/博士论文阅读记录</a> 阅读全文。</p>]]></content:encoded>
             <author>wyyaa123@nuaa.edu.cn (wyyaa123)</author>
         </item>
         <item>
             <title><![CDATA[怎么样使用Valaxy框架部署博客]]></title>
             <link>https://wyyaa123.github.io/posts/怎么样使用Valaxy框架部署博客</link>
             <guid>https://wyyaa123.github.io/posts/怎么样使用Valaxy框架部署博客</guid>
-            <pubDate>Wed, 18 Dec 2024 15:15:55 GMT</pubDate>
+            <pubDate>Tue, 17 Dec 2024 16:19:59 GMT</pubDate>
             <content:encoded><![CDATA[<p>在本文中主要会介绍我自己作为一名前端小白，是如何部署博客的。</p>
 <h2>配置环境</h2>
 <p>系统:</p>
@@ -36,9 +39,17 @@
 <p>软件包：</p>
 <blockquote>
 <p>Node 22.12.0</p>
-<p>npm: 10.9.0</p>
+<p>npm:</p>
 </blockquote>
 <br/><p>访问 <a href="https://wyyaa123.github.io/posts/怎么样使用Valaxy框架部署博客" target="_blank">https://wyyaa123.github.io/posts/怎么样使用Valaxy框架部署博客</a> 阅读全文。</p>]]></content:encoded>
+            <author>wyyaa123@nuaa.edu.cn (wyyaa123)</author>
+        </item>
+        <item>
+            <title><![CDATA[Ubuntu安装CUDA, Cudnn以及TensorRT]]></title>
+            <link>https://wyyaa123.github.io/posts/Ubuntu安装CUDA, Cudnn以及TensorRT</link>
+            <guid>https://wyyaa123.github.io/posts/Ubuntu安装CUDA, Cudnn以及TensorRT</guid>
+            <pubDate>Tue, 17 Dec 2024 16:09:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div style="text-align: center; font-size: 20px; font-weight: bold"> 在此假设你使用的是一个干净的崭新的Ubuntu系统 </d<br/><p>访问 <a href="https://wyyaa123.github.io/posts/Ubuntu安装CUDA, Cudnn以及TensorRT" target="_blank">https://wyyaa123.github.io/posts/Ubuntu安装CUDA, Cudnn以及TensorRT</a> 阅读全文。</p>]]></content:encoded>
             <author>wyyaa123@nuaa.edu.cn (wyyaa123)</author>
         </item>
     </channel>
